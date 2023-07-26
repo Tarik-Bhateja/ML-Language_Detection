@@ -19,7 +19,8 @@ Make sure you have the following dependencies installed:
 - Other dependencies listed in requirements.txt (if any)
 
 You can install the required dependencies using the following command:
-'''
+
+```
 pip install -r requirements.txt
-'''
+```
 
