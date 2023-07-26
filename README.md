@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-0.24-orange.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/Tarik-Bhateja/ML-Language_Detection)
-![License](https://img.shields.io/github/license/Tarik-Bhateja/ML-Language_Detection)
 
 ## Overview
 
@@ -15,8 +14,8 @@ The goal of this project is to showcase how to extract text from images using Op
 
 Make sure you have the following dependencies installed:
 
-- Python 3.x
-- Scikit-Learn 0.24
+- Python 
+- Scikit-Learn 
 - Other dependencies listed in requirements.txt (if any)
 
 You can install the required dependencies using the following command:
